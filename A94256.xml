@@ -1,0 +1,599 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A. catalogue of all the cheifest [sic] rarities in the publick theater and anatomie-hall of the University of Leiden, vvhich are soe set in order that all may easily bee found in their places.</title>
+            <author>Rijksuniversiteit te Leiden. Anatomisch Kabinet.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94256</idno>
+            <idno type="STC">Wing S902A</idno>
+            <idno type="STC">ESTC R183276</idno>
+            <idno type="EEBO-CITATION">45578430</idno>
+            <idno type="OCLC">ocm 45578430</idno>
+            <idno type="VID">172348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172348)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A. catalogue of all the cheifest [sic] rarities in the publick theater and anatomie-hall of the University of Leiden, vvhich are soe set in order that all may easily bee found in their places.</title>
+                  <author>Rijksuniversiteit te Leiden. Anatomisch Kabinet.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Maarten van Leeuwen, in the Keetelboeter-steeg.,</publisher>
+                  <pubPlace>In Leiden. :</pubPlace>
+                  <date>CI[C]I[C]CLXXXIII [1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint contains turned c's.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anatomical specimens.</term>
+               <term>Zoology --  Catalogs and collections --  Netherlands.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172348:1" rendition="simple:additions"/>
+            <p>A. CATALOGUE Of all the cheifeſt RARITIES In the Publick THEATER and ANATOMIE-HALL Of the Univerſity LEIDEN, <hi>VVhich are ſoe ſet in order that all may eaſily bee found in their Places.</hi>
+            </p>
+            <q>Sic erimus cuncti poſtquam nos auferet orcus.</q>
+            <figure>
+               <head>AETERNITAS.</head>
+            </figure>
+            <p>IN LEIDEN. A. MDCLXXVIII.</p>
+            <p>Printed by MAARTEN VAN LEEUWEN, in the Keetelboeter-ſteeg.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172348:2"/>
+            <opener>
+               <signed>HENRICUS CRAMERUS</signed>
+               <salute>Lecturis valere &amp; gaudere.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>oſtquam mihi curandae ANATOMIAE publicae demandata fuit provincia, illud Sedulo operam dedi ut mea cura tam ad cives noſtros, quam ho<g ref="char:EOLhyphen"/>ſpites, quibus famae <hi>Leydenſis</hi> innotuit Anato<g ref="char:EOLhyphen"/>miae, redundaret utilitas. Variis haec &amp; huculen<g ref="char:EOLhyphen"/>tis Clariſſimorum virorum inſtructa Donariis, quaeque tem<g ref="char:EOLhyphen"/>poris invidia, &amp; Longa Oblivione obruta jacebant, in ſinu Scivat recluſa. Quicquid videt cum maxime oriens &amp; Occi<g ref="char:EOLhyphen"/>dens: Omne miſſa in compendium via Oſtentat, &amp; ne con<g ref="char:EOLhyphen"/>fuſa CHAOS intentionis aciem veſtrae abrumperet, ita in hoc Catalogo diſcripſi, &amp; diſpoſui omnia, ut nullo opere quaerentibus occurant Spectanda.</p>
+            <closer>
+               <salute>VALE LECTOR, &amp; fruere.</salute>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>In Theatrum ANATOMICUM, LUGD. BATAV.</head>
+            <l>Mitte probro Civi ſuſpendia vertere noſtro,</l>
+            <l>Omne malum finis pulcra coronat opus</l>
+            <l>
+               <hi>Caeſareum</hi> ſit ſtando mori, generoſior ille</l>
+            <l>
+               <hi>Caeſare;</hi> qui ſua poſt funera ſtare poteſt.</l>
+            <closer>
+               <signed>CONTANTER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="exhibit_catalogue">
+            <div type="part">
+               <pb facs="tcp:172348:2"/>
+               <head>THESE MAY BE SEEN IN THE ENTRANCE.</head>
+               <list>
+                  <item>1 The Head of an Elephant.</item>
+                  <item>2 The Head of an Elk.</item>
+                  <item>3 The Skin and Horn of the Head of a Rhenoceros.</item>
+                  <item>4 The Skin and Horns of a White Hart.</item>
+                  <item>5 A Crocodile.</item>
+                  <item>6 The four feet of an Elephant. <hi>D. Instinii Heurneus.</hi>
+                  </item>
+                  <item>7 Some Indian Darts.</item>
+                  <item>8 A Trumpet made of the Rinde of a Tree.</item>
+                  <item>9 A Muſcovian Bow.</item>
+                  <item>10 The Skin of an Animall inhabiting Braſil, called Tajacou. <hi>D. Princip. Maurice.</hi>
+                  </item>
+                  <item>11 The Snout of an Unknown Fish, from Braſil. <hi>D. G. Piſonis.</hi>
+                  </item>
+                  <item>12 A Pair of Polonian Boots.</item>
+                  <item>13 A Leopards Skin.</item>
+                  <item>14 A Pair of Lapland's Breeches.</item>
+                  <item>15 The Skin of a Braſilian Beaſt, called Tamandua Pepa.</item>
+                  <item>16 The Skin of a Piger, a verg ſlow Animall, quoted by <hi>Plinie.</hi>
+                  </item>
+                  <item>17 The Horn of an Oure Ox.</item>
+                  <item>18 A Muſcovian Monk's Hood.</item>
+                  <item>19 A Caſſac's or Ruſſian Cithern.</item>
+                  <item>20 A Pair of Muſcovian Breeches, &amp; A Coate.</item>
+                  <item>21 A Pair of Stilts or Skates, upon which the Norwegians, Laplanders and Finlanders ride over high ſnowy morntaines, with an almoſt incredible ſwift Pace. <hi>D. Arnol. VVilliams.</hi>
+                  </item>
+                  <item>22 The Head of an Elephant. <hi>D. Adriani Pauwe.</hi>
+                  </item>
+                  <item>23 The Sceleton of a Dog.</item>
+                  <item>24 A Leather'n Boat, brought from the Straites of S<hi rend="sup">t.</hi> David.</item>
+                  <item>25 The Sceleton of a Bird, called a Shoúler.</item>
+                  <item>26 An Heron.</item>
+                  <item>27 The Bone of the Hinder part of a Large old whale. <hi>D. Adriani Pauwe.</hi>
+                  </item>
+                  <item>28 The Bone of a whale's Snout.</item>
+                  <item>29 The Sceleton of a Young Whale taken out of the old ones Belly.</item>
+                  <item>30 The Hide of a Sea-Horſe.</item>
+                  <item>31 The Skin of an Alce.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb facs="tcp:172348:3"/>
+               <head>Aboue in The Anotomie Chamber.</head>
+               <list>
+                  <item>1 Teeth of a Sea-Calfe.</item>
+                  <item>2 The Snout aſ a Fish haueing teeth in form of a Saw, and is called a Sawfish.</item>
+                  <item>3 The Sceleton of a Bear.</item>
+               </list>
+               <div type="subpart">
+                  <head>About The Circle of The Theatre are placed Theſe Following Rarities.</head>
+                  <list>
+                     <item>4 The Sceleton of a Cow.</item>
+                     <item>5 The Sceleton of a Wolf.</item>
+                     <item>6 The Sceleton of a Baboon.</item>
+                     <item>7 The Sceleton of an Aſſe upon which ſit's a Woman that Killed her Daughter.</item>
+                     <item>8 The Sceleton of a Cat.</item>
+                     <item>9 The Sceleton of a Woman of 17. Yeares old who murdered her Son.</item>
+                     <item>10 The Sceleton of a Hog. <hi>D. D<hi rend="sup">r.</hi> Bils.</hi>
+                     </item>
+                     <item>11 The Sceleton of an Ape.</item>
+                     <item>12 The Sceleton of a Buck-Goate.</item>
+                     <item>13 The Sceleton of a Bear.</item>
+                     <item>14 The Sceleton of a Hart.</item>
+                     <item>15 The Sceleton of a Piger. <hi>Donum Piſonis.</hi>
+                     </item>
+                     <item>16 The Lepor Marinus a Fish inhabiting the muddieſt part of the Sea, and caſteth Snot out of it's Snout.</item>
+                     <item>17 The Sceleton of a Sheep-Stealer of Haerlem.</item>
+                     <item>18 The Sceleton of a Horſe.</item>
+                     <item>19 The Sceleton of a Pirat.</item>
+                     <item>20 The Sceleton of a Sheep. <hi>D. D<hi rend="sup">r.</hi> Bils.</hi>
+                     </item>
+                     <item>21 The Sceleton of a Gelded Buck-Goate.</item>
+                     <item>22 The Sceleton of a Ferret.</item>
+                     <item>23 The Sceleton of a Woman called <hi>Catherine</hi> of <hi>Hamburgh,</hi> ſtrangled for theft.</item>
+                     <item>24 The Sceleton of a Man, ſitting upon an Ox, executed for Stealing of Cattle. <hi>D. D<hi rend="sup">r.</hi> Bils.</hi>
+                     </item>
+                     <item>25 The Sceleton of a Ape.</item>
+                     <item>26 The Sceleton of a Grey-Hound.</item>
+                     <item>27 The Sceleton of a Man who hung him ſelfe.</item>
+                     <item>28 The Sceleton of a Dog.</item>
+                     <item>29 The Sceleton of an Otter</item>
+                     <item>30 The Sceleton of a Grey-Hound.</item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <pb facs="tcp:172348:3"/>
+                  <head>Theſe Following Rarities are about The beames, &amp; VVall of the Theater.</head>
+                  <list>
+                     <item>31 The Covering of a great <hi>Mumie,</hi> upon which is engraven the Effigies of <hi>Ceres.</hi>
+                     </item>
+                     <item>32 An Elephant's Head.</item>
+                     <item>33 A Ferret.</item>
+                     <item>34 An Unknown Fish.</item>
+                     <item>35 A Sea-Hedg-hog.</item>
+                     <item>36 The Head of a Wilde Boare.</item>
+                     <item>37 The Sceleton of a Lap-wing.</item>
+                     <item>38 A Beaſt, called Tatou. <hi>D. Princip. Maurice.</hi>
+                     </item>
+                     <item>39 The Sceleton of an Hedg-hog.</item>
+                     <item>40 The Snout of a Saw-Fish-Having, teeth repreſenting the Same.</item>
+                     <item>41 The Head of a Sea-Calfe.</item>
+                     <item>42 A Whale's <hi>Yard.</hi>
+                     </item>
+                     <item>43 The Skin of a Man Tann'd.</item>
+                     <item>44 The Entrailes of a Man.</item>
+                     <item>45 An Eaſt-Indien Tyger, <hi>Gifs</hi> of <hi>P<hi rend="sup">r.</hi> Carpenter.</hi> Governour in the <hi>Eaſt-Indies.</hi>
+                     </item>
+                     <item>46 The Effigies of a Pruſian Peſant, who Swallowed a Knife of ten inches Length, which was cut out of his Stomack, &amp; he Lived Eight Yeares afterwards.</item>
+                     <item>47 A Sturgeon.</item>
+                     <item>48 A Piger.</item>
+                     <item>49 Two Bones grown to the Back Bone.</item>
+                     <item>50 A Norway Houſe, built of balcks, or beamea, without morter or ſtone.</item>
+                     <item>51 The Beard of a Young Whale.</item>
+                     <item>52 Seven Vertubrae's or Nucles Joyned to the Back Bone.</item>
+                     <item>53 The Sceleton of an Eagle.</item>
+                     <item>54 The Snout of a Fish (called <hi>Picis Serratus</hi>) whoſe teeth reſemble a Saw.</item>
+                     <item>55 A Chaire of a Root of a Tree, naturally grown ſo, from Amboyna.</item>
+                     <item>56 The Skin of a Ray, or Skate, from <hi>Angola.</hi>
+                     </item>
+                     <item>57 The Bladder of a Man containing four Stoop (which is ſometing aboue two Eng:) Gallons of Water.</item>
+                     <item>58 A Formica Vorans or Pifmire eater by, <hi>Princip. Maurice.</hi>
+                     </item>
+                     <item>59 A Piger.</item>
+                     <item>60 A Crocodile.</item>
+                     <item>61 The Entrailes of a Man, of which is made a Shirt.</item>
+                     <item>62 Some Tygers Skins.</item>
+                     <item>
+                        <pb facs="tcp:172348:4"/>63 The Skin of a Man dreſſed as Parchement.</item>
+                     <item>64 The Sceleton of a Bager.</item>
+                     <item>65 A Chirurgeons Inſtrument, called <hi>Gloſſoconium.</hi> i. d. an Inſtrument in which broaken peices are ſet, and bound up.</item>
+                     <item>66 A Large Indian Crab.</item>
+                     <item>67 The Gutts, with the Stomack and bladder of a dog.</item>
+                     <item>68 A Sea-Dog.</item>
+                     <item>69 An Eaſt Indian Squiril.</item>
+                     <item>70 The Skin of a Large Serpent.</item>
+                     <item>71 The Inteſtines and Stomack of a Man.</item>
+                     <item>72 A Tyger from the Eaſt Indies.</item>
+                     <item>73 The Skin of a Woman.</item>
+                     <item>74 A Huge Serpent upon which hang a Man's Stomack, and that of a Hog's.</item>
+                     <item>75 A Beaſt called a Tatou.</item>
+                     <item>76 Warlick Armes uſed in China.</item>
+                     <item>77 A great Fauchion or hooked Sword, of the Chinenſes.</item>
+                     <item>78 Certaine Humane bones grown together.</item>
+                     <item>79 A Whales Operator.</item>
+                     <item>80 The Head of a Sword-Fish, Ennemy to the Whale. <hi>D. D<hi rend="sup">r.</hi> S. Bloemaert.</hi>
+                     </item>
+                     <item>81 The Sceleton of a Coney.</item>
+                     <item>82 A Sea-Calfe.</item>
+                     <item>83 A Sea-Starlin.</item>
+                     <item>84 A Sea-Hedg-Hog.</item>
+                     <item>85 A Fish called Orbis Picis which is found in the paunch of a Canther, &amp; of a Cheſtnut colour, is unſavory meat.</item>
+                     <item>86 The Sceleton of a Coney.</item>
+                     <item>87 The Head of a wilde Boar.</item>
+                     <item>88 The Sceleton of a Swan.</item>
+                     <item>89 The Sceleton of a Cock.</item>
+                     <item>90 The Sceleton of a Pigeon.</item>
+                     <item>91 A Sheild made of a Large Sea-Tortice-Shell.</item>
+                     <item>92 A Kinde of Baboon, called by the Dutch A Bosh-Manneken.</item>
+                     <item>93 The Sceleton of A Doue.</item>
+                     <item>94 4. or 5. Chinenſe's Songs.</item>
+                     <item>95 Two Horſes Hides of the ſame Nation.</item>
+                     <item>96 The Bone of a Whales Taile.</item>
+                     <item>97 The Skin of a childe when firſt born.</item>
+                     <item>98 A ſtrange Sea-Fish.</item>
+                     <item>99 A Bear. <hi>D. Danielis Beckheri.</hi>
+                     </item>
+                     <item>
+                        <pb facs="tcp:172348:4"/>100 Galeus Levis a hurt full ſort of Fish, wee call it a Hound-Fish.</item>
+                     <item>101 The Inteſtines and Stomack of a Man.</item>
+                     <item>102 The Skin of a hugh Serpent.</item>
+                     <item>103 A Citty of China printed by the ſame nation.</item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <head>In a little Chamber.</head>
+                  <list>
+                     <item>104 A French Noble-Man who ravish't his ſiſter, and afterwards mur<g ref="char:EOLhyphen"/>dered her, wes beheaded at Paris, and beſtowed on the Anatomie by <hi>D. Bils.</hi>
+                     </item>
+                     <item>105 The Sceleton of a Man a horſe-back.</item>
+                     <item>106 The Head of a Sea-Horſe.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="part">
+               <head>In the Preſſe. A. out the North-ſide are theſe Following rarities.</head>
+               <list>
+                  <item>1 The Mumie of an Egyptian Prince aboue 1800. Yeares old, upon whoſe breaſt hang 2. Jaſper Stones.</item>
+                  <item>2 The beeck of the bird <hi>Rhenoceros,</hi> or <hi>Topau.</hi>
+                  </item>
+                  <item>3 A White Box in which is unbleacht Egyptian Linnen.</item>
+                  <item>4 A Role of White, and Red China's paper. <hi>D. Michialis Pauwe.</hi>
+                  </item>
+                  <item>5 A Stone of a Conſiderable bigneſſe, taken out of a maids kidneys.</item>
+                  <item>6 A Corral Tree taken out of the Eaſt-Indian-Sea.</item>
+                  <item>7 Six Stones taken out of the Bladder of old. <hi>Profeſſora Iohan: Heurnius.</hi>
+                  </item>
+                  <item>8 The Bill of a Strange Bird.</item>
+                  <item>9 Two Vertebrae out of the neck of a Rhenoceros.</item>
+                  <item>10 A great Jaſper-Stone or Bloud-Stone from Arabia.</item>
+                  <item>11 A Pot in which is China Beer.</item>
+                  <item>12 An Indian Sable.</item>
+                  <item>13 A Roman Lamp which burnes alwayes under Ground.</item>
+                  <item>14 Some Roman Urnes, aboue 1000. Yeares old. <hi>D. Danielis Gyſii.</hi>
+                  </item>
+                  <item>15 An Indian Crea-Fish. <hi>D. D. Iohan: Dammaſii Boſſu.</hi>
+                  </item>
+                  <item>16 A Hand of a Meermaide.</item>
+                  <item>17 A Toad-Stooll aboue 100. Yeares old, which grow'd in the Haelemer Meer.</item>
+                  <item>18 A Foot of a Sea-Monſter. <hi>D. Princip. Mauritii.</hi>
+                  </item>
+                  <item>19 Two Lizard's Skin's from Braſſile.</item>
+                  <item>20 A Gold-Ring from China. <hi>D. D<hi rend="sup">r.</hi> Iohan<g ref="char:punc">▪</g> Hoog-kamer.</hi>
+                  </item>
+                  <item>21 The Head of a Rhenoceros.</item>
+                  <item>22 A Wing of a Flying Fish.</item>
+                  <item>
+                     <pb facs="tcp:172348:5"/>23 The Skin of an Indian Squirril.</item>
+                  <item>24 The Claw of an Eaſt Indian Crea-Fish.</item>
+                  <item>25 A Glaſſe containing the ſubſtance with which they were wont to pre<g ref="char:EOLhyphen"/>ſerne Mumies.</item>
+                  <item>26 A Tyger's Head.</item>
+                  <item>27 The Head of a Beaſt from the Eaſt-Indies, called <hi>Barbirouſa,</hi> is halfe hart and halfe Hog, they breed in the Iland <hi>Celebres.</hi>
+                  </item>
+                  <item>28 The Head of a Sea-Hog. from Braſile. <hi>D. Guil. Piſo.</hi>
+                  </item>
+                  <item>29 The Hand and Foot of a Mumie. <hi>D. Frederici VVeſtphalinck.</hi>
+                  </item>
+                  <item>30 A Petriſied Toad-Stool.</item>
+                  <item>31 The Same.</item>
+                  <item>32 A Precious ſtone in Ethiopia, celled <hi>Heliotropium.</hi>
+                  </item>
+                  <item>33 Three Clawes with the Horn of a Young Rhynoceros.</item>
+                  <item>34 An Egyptian Bean.</item>
+                  <item>35 A Book painted with China Charecter's. <hi>D. Franciſci Porſijn.</hi>
+                  </item>
+                  <item>36 A Thunder-Bolt, Given by <hi>Melchior de Moucheron.</hi>
+                  </item>
+                  <item>37 The Arme of a great Egyptian Hero.</item>
+                  <item>38 A Dried Arme of a Blackmoor.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>In the Preſſe M<hi rend="sup">k.</hi> B. are as followeth.</head>
+               <list>
+                  <item>1 The Sceleton of a New-borne-childe.</item>
+                  <item>2 The Sceleton of a Mouſe.</item>
+                  <item>3 The Sceleton of a Mole.</item>
+                  <item>4 All the Arterys of the Liver.</item>
+                  <item>5 A Flying Hart, by <hi>Franciſcus Schurmans.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>In the Caſe M<hi rend="sup">k.</hi> C.</head>
+               <list>
+                  <item>1 An Egyptian Urn, in which is an Abortus Embalm'd abone 1000. Yeares old.</item>
+                  <item>2 A Viper or Flying Adder.</item>
+                  <item>3 An Egyptian Flie.</item>
+                  <item>4 The Check-Bone of a Mumie.</item>
+                  <item>5 A Sea-Spider, from <hi>New Yorke. D. Hermani Bloem.</hi>
+                  </item>
+                  <item>6 Capriſcus Rhondeletii.</item>
+                  <item>7 The Arterys of a Man's Liver.</item>
+                  <item>8 An Egyptian Night-Owl.</item>
+                  <item>9 A Little Box, wherein is ſome bloud of a Crocodile.</item>
+                  <item>10 A Peice of Bread of Farnie.</item>
+                  <item>11 A Mallet, or Hammer that the <hi>Savages</hi> in <hi>New Yorke,</hi> kill with <hi>D. Her<g ref="char:EOLhyphen"/>mani Bloem.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb facs="tcp:172348:5"/>
+               <head>In the Cupboard M<hi rend="sup">k.</hi> D.</head>
+               <list>
+                  <item>1 The Arme of an Egyptian Mumie.</item>
+                  <item>2 A Little bone taken out of the Pizzl'e of a Wolfe.</item>
+                  <item>3 A Little Stone found in Eagles Neſts, called <hi>Aeritus Lapillus.</hi>
+                  </item>
+                  <item>4 A Stone taken out of the Stomack of a Gooſe, brought from the <hi>Stra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t Magellane.</hi>
+                  </item>
+                  <item>5 <hi>Lapis Nephriticus,</hi> or Gravel-ſtone.</item>
+                  <item>6 A Stone found in the Head of a Sea-Calfe.</item>
+                  <item>7 A Bone of the hearing Organe of a Whale.</item>
+                  <item>8 A Coculo, commonly called a Sea-Cock.</item>
+                  <item>9 A ſmall bone taken out of the Penis of a Beever.</item>
+                  <item>10 The Bladder of a Dog.</item>
+                  <item>11 The Bladder of a Man.</item>
+                  <item>12 The Double Bladder of a Fish.</item>
+                  <item>13 The Arterys of the Liver.</item>
+                  <item>14 A Drinking-Cap of the Skull of a Moor, killed in the Beleaguring of Haerlem.</item>
+                  <item>15 The Sceleton of a Hedg-hog.</item>
+                  <item>16 The Sceleton of a Frog.</item>
+                  <item>17 The Sceleton of a Fitcher.</item>
+                  <item>18 A Young Crocodile from Egypt.</item>
+                  <item>19 The Sceleton of a Water-Rat.</item>
+                  <item>20 The Sceleton of a Chaffinch.</item>
+                  <item>21 A Sheapheard's-Pipe from the Iland Maltha. <hi>D. D. Iohan. van Horne.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>In the Caſe M<hi rend="sup">k.</hi> E.</head>
+                  <item>1 A Wooden Effigies of <hi>Oſiris,</hi> whom the Egyptians worshiped as a God, it's now almoſt conſumed with age.</item>
+                  <item>2 An Image of <hi>Iſis,</hi> giving Suck to her Son <hi>Orus.</hi>
+                  </item>
+                  <item>3 An Egyptian Coffer in which are aromaticall ſpices, for preſerving of bodys, for Mumies.</item>
+                  <item>4 Three Egyptian Idoles, made of ſtone.</item>
+                  <item>5 A Drinking-Cup made of a Tortice-shell.</item>
+                  <item>6 An Indian Serpent's Eggs.</item>
+                  <item>7 The Sceleton of a Mole.</item>
+                  <item>8 The Arterys of the Lungs.</item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>In the Preſſe M<hi rend="sup">k.</hi> F.</head>
+                  <item>1 A Brazen Effigies of <hi>Oſiris,</hi> the Egyptian God.</item>
+                  <item>2 A Water-Serpent,</item>
+                  <item>
+                     <pb facs="tcp:172348:6"/>3 The Arme of an Egyptian Hero, Embalm'd.</item>
+                  <item>4 A Bone Embalm'd.</item>
+                  <item>5 A Little Egyptian Coffer upon which is engraten Iſis's Effigies, &amp; in which is the heart of an Egyptian Prince, Embalm'd.</item>
+                  <item>6 A Fish called Schincus.</item>
+                  <item>7 The Hip-bone of a Giant.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>In the Caſe M<hi rend="sup">k.</hi> G.</head>
+               <list>
+                  <item>1 The Arterys of the Lung's of a pig.</item>
+                  <item>2 Two Stony Idols.</item>
+                  <item>3 A Cruſe wtought in polished Marble.</item>
+                  <item>4 A Trianguler Fish.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>In the great Cupboard. H. ont he North-ſide of the Anatomie.</head>
+               <list>
+                  <item>1 The Mumie of an Egyptian Prince, aboue 1300. Yeares old. <hi>D. Io<g ref="char:EOLhyphen"/>hannis Baptiste Bartoliti.</hi>
+                  </item>
+                  <item>2 A Paix of Sandles or Slippers from the Kindome of <hi>Syam.</hi>
+                  </item>
+                  <item>3 The Skin of an Indian Lizard.</item>
+                  <item>4 The Skin of a Molacca Woman aboue 150. Yeares old, by <hi>Dirick Snoeck.</hi>
+                  </item>
+                  <item>5 A Pair of Ruſſian Shoes.</item>
+                  <item>6 Some Images of the Japanneſes. <hi>D. Adriani Pauwe.</hi>
+                  </item>
+                  <item>7 A Cheek Bone of a Dog-Fish.</item>
+                  <item>8 A Lion's Head.</item>
+                  <item>9 An Urne, called <hi>Vrne Fenalis Romana,</hi> wherein the Romans preſetved the Aſshes of burnt bodies. <hi>D. Danielis Gyſii.</hi>
+                  </item>
+                  <item>10 A Woman's pudenda.</item>
+                  <item>11 A Roman Eartherne Veſſell. <hi>D. Danielis Gyſii.</hi>
+                  </item>
+                  <item>12 A Guilded Copper Idol from <hi>Syam.</hi>
+                  </item>
+                  <item>13 A China Pot.</item>
+                  <item>14 A Box of white Powder, w<hi rend="sup">ch.</hi> the <hi>Turkes</hi> &amp; <hi>Italiens</hi> uſe to make the haire fall of</item>
+                  <item>15 The bough of a Tree fenced with a Stone.</item>
+                  <item>16 A Pair of Shoes made of Man's Leather.</item>
+                  <item>17 A Pair of Egyptian Sandels.</item>
+                  <item>18 An Indian Lamprey.</item>
+                  <item>19 A Sea-Horſe.</item>
+                  <item>20 A Flying Dragon.</item>
+                  <item>21 Some Strange Indian Fish and a Flying Fish.</item>
+                  <item>22 A Roman Lamp which burnes eternally.</item>
+                  <item>23 A Roman Bean.</item>
+                  <item>
+                     <pb facs="tcp:172348:6"/>24 A Peice of Raberbe grown in shape of a Dog's Head. <hi>D. Iohannis Hoog-Kamer.</hi>
+                  </item>
+                  <item>25 A Lizard.</item>
+                  <item>26 A Basket where in are Crocodile eggs. <hi>D. G. Piſo.</hi>
+                  </item>
+                  <item>27 An Indian Sea-Spider.</item>
+                  <item>28 The Liver of a Man, in which is grown a ſtone as big as a ball.</item>
+                  <item>29 The Rib of a Sheep, with three branches ſprouting out.</item>
+                  <item>30 The Hearing Organe of a Man.</item>
+                  <item>31 A Basket in which is Miſcovian and other Country money.</item>
+                  <item>32 The Arteria Magna of a Man.</item>
+                  <item>33 Some Egyptian Glaſſing Veſſels. or Cupping Veſſels.</item>
+                  <item>34 The Sceleton of a Serpent.</item>
+                  <item>35 A Dish of <hi>Lapis Oſsifragus,</hi> or Fine-bone-ſtone. <hi>D. Iohan. Nicolao Bou<g ref="char:EOLhyphen"/>manno.</hi>
+                  </item>
+                  <item>36 A Stone which was found in the <hi>Os Sacrum,</hi> or the great bone upon which the Ridg bone reſteth.</item>
+                  <item>37 A Glaſſe in which are China-Figs,</item>
+                  <item>38 A Ball called <hi>Manſa,</hi> found in a Cow's Stomack.</item>
+                  <item>39 A great <hi>Caſsia Fistula</hi> from Braſſile.</item>
+                  <item>40 A Box of Verg Larye Amber. <hi>D. Danieli Beckleri.</hi>
+                  </item>
+                  <item>41 An American Bean.</item>
+                  <item>42 An Indian Knife.</item>
+                  <item>43 An Indian Guilded Wooden-Cup.</item>
+                  <item>44 A Black Fly called a Bretle, brought from the Cape of Goodhope.</item>
+                  <item>45 The <hi>Cranium,</hi> or Braine-pan of a Wolfe.</item>
+                  <item>46 A Cup-made of a Double Braine-Pan. <hi>D. D<hi rend="sup">r.</hi> de Bils.</hi>
+                  </item>
+                  <item>47 Some grown-Corral.</item>
+                  <item>48 The Brain-pan of an Oſtrich.</item>
+                  <item>49 A Puff, or Mushrom of a very conſiderable greatneſſe.</item>
+                  <item>50 A Sceleton of a childe newly borne.</item>
+                  <item>51 The Sceleton of a childe but 4. moneths old in the Womb.</item>
+                  <item>52 The Image of the Goddeſſe Forrune. <hi>D. Danielis Gyſii.</hi>
+                  </item>
+                  <item>53 A great Bone found in the Body of a Woman of Vlarding, being abone 90. Yeares old.</item>
+               </list>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:172348:7"/>
+            <head>IN THEATRUM ANATOMICUM, <hi>LUGD. BATAV.</hi>
+            </head>
+            <l>Aviena, qui <hi>Batavas</hi> ſpectatum veneris oras;</l>
+            <l>Huc age, quae ſtupeas inclyta <hi>Leyda</hi> dabit;</l>
+            <l>Huc Ubi Legiferam <hi>Cererem</hi> comitatur <hi>Oſiris,</hi>
+            </l>
+            <l>Iſidos <hi>Argolicae</hi> ſuſpice ſigna deae:</l>
+            <l>Fruſtra Deum, fragilis <hi>Fortunae</hi> idola profana,</l>
+            <l>
+               <hi>Urnam</hi> quae cineres relligioſa notet:</l>
+            <l>
+               <hi>Lampada,</hi> ad humanos quae non pervenerit uſus,</l>
+            <l>Cui magis in cultu, cui magis apta Deûm!</l>
+            <l>Vixerit, aeternae tantum ſe paſta Lucernae</l>
+            <l>Flammula, an inviſae Larva fit illa rei?</l>
+            <l>Qua Lacerarit acu, qualem cui <hi>Fibula</hi> veſtem</l>
+            <l>Vixerit, unde ſagum ſtrinxerit, unde togatu:</l>
+            <l>Divitis <hi>Egypti</hi> pretioſo cadavera, Lata</l>
+            <l>Finibus <hi>Eois,</hi> invidioſa Diis:</l>
+            <l>Singula noſſe juvet, tamen his, &amp; inania rerum,</l>
+            <l>Et maris, &amp; terrae viſcera poſthabeas;</l>
+            <l>Erudit incantum te vox facunda <hi>CRAMERI,</hi>
+            </l>
+            <l>Et claram ambiguo praeſtat ubique facem:</l>
+            <l>Sic ſaecli penetrare Sinûs, &amp; Viſcera veri,</l>
+            <l>Sic poteris <hi>Româ</hi> prodigiore frui.</l>
+            <closer>
+               <signed>CORN. à MAERSCHE.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
